@@ -1,19 +1,90 @@
-Sol Ring
-Birds of Paradise
-High Tide
-Rapid Hybridization
-Arcane Signet
-Dolmen Gate
-Lightning Greaves
-Sword of the Animist
-Baral, Chief of Compliance
-Curious Homunculus
-Goblin Electromancer
-Lotus Cobra
-Rattleclaw Mystic
-Dorat, the Perfect Pet
-Artifact Mutation
-Comet Storm
-Electrodominance
-Evolution Charm
-Growth Spiral
+1 Sol Ring
+1 Birds of Paradise
+1 High Tide
+1 Rapid Hybridization
+1 Arcane Signet
+1 Dolmen Gate
+1 Lightning Greaves
+1 Sword of the Animist
+1 Baral, Chief of Compliance
+1 Curious Homunculus
+1 Goblin Electromancer
+1 Lotus Cobra
+1 Rattleclaw Mystic
+1 Sprite Dragon
+1 Artifact Mutation
+1 Comet Storm
+1 Electrodominance
+1 Evolution Charm
+1 Growth Spiral
+1 Manamorphose
+1 Starstorm
+1 Strength of the Tajuru
+1 Tribute to the Wild
+1 Commander's Sphere
+1 Twinning Staff
+1 Dualcaster Mage
+1 Glademuse
+1 Laboratory Maniac
+1 Overgrowth
+1 Primal Empathy
+1 Quicksilver Dagger
+1 Chaos Warp
+1 Deflecting Swat
+1 Frantic Search
+1 Harrow
+1 Hunter's Insight
+1 Natural Connection
+1 Predator's Rapport
+1 Temur Charm
+1 Lavabrink Floodgates
+1 Lunar Mystic
+1 Niblis of Frost
+1 Solemn Simulacrum
+1 Talrand, Sky Summoner
+1 Jace's Sanctum
+1 Song of Creation
+1 Wilderness Reclamation
+1 Chemister's Insight
+1 Curious Herd
+1 Slice in Twain
+1 Surreal Memoir
+1 Tempt with Discovery
+1 Omnispell Adept
+1 Arcane Melee
+1 Clash of Titans
+1 Prophetic Bolt
+1 Jaya Ballard
+1 Charmbreaker Devils
+1 Etali, Primal Storm
+1 Melek, Izzet Paragon
+1 Niv-Mizzet, Parun
+1 Shark Typhoon
+1 Thousand-Year Storm
+1 Swarm Intelligence
+1 Ancient Silver Dragon
+1 Botanical Sanctum
+1 Breeding Pool
+1 Command Tower
+1 Desolate Lighthouse
+1 Exotic Orchard
+1 Flooded Grove
+3 Forest
+1 Frontier Bivouac
+1 Gruul Turf
+1 Halimar Depths
+5 Island
+1 Izzet Boilerworks
+1 Kessig Wolf Run
+1 Ketria Triome
+4 Mountain
+1 Mossfire Valley
+1 Mosswort Bridge
+1 Myriad Landscape
+1 Reliquary Tower
+1 Rogue's Passage
+1 Rootbound Crag
+1 Simic Growth Chamber
+1 Steam Vents
+1 Stomping Ground
+1 Temple of Abandon
